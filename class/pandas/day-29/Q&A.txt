@@ -1,0 +1,19 @@
+Department Budget Comparisons
+An HR manager needs to compare total annual training budgets across seven distinct departments (Finance, Sales, Marketing, IT, HR, Legal, Operations). Which visualization clearly compares these discrete category totals?
+
+Answer: Bar Chart
+
+House Size vs. Sale Price
+A real estate analyst wants to investigate whether larger house sizes (in square feet) directly correspond to higher selling prices. Which plot best shows the relationship between these two continuous numerical variables?
+
+Answer: Scatter Plot
+
+Daily Website Traffic Trends
+A marketing team wants to track how daily website visitors fluctuate continuously across the entire month of December. Which plot best reveals the continuous upward or downward momentum over time?
+
+Answer : Line Graph
+
+Exam Score Distribution
+A high school teacher wants to see how student scores on a standardized test are grouped into score ranges to determine if the test was too difficult. Which graph should I use?
+
+Answer : Histogram
