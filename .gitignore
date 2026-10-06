@@ -2,3 +2,10 @@
 .DS_Storeclass/Machine Learning (ML)/data/DNA_Dataset_Normalized.csv
 class/Machine Learning (ML)/data/DNA_Dataset_Normalized.csv
 .DS_Store
+
+# Large datasets / model files
+class/Machine Learning (ML)/data/IMDB Dataset.csv
+class/Machine Learning (ML)/data/sentiment_classifier.joblib
+
+# Virtual environment
+.venv/
